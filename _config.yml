@@ -1,0 +1,8 @@
+description: Writeups for CTFs
+url: https://j-james.github.io
+baseurl: /writeups
+permalink: /:categories/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
